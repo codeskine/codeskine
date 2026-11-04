@@ -4,6 +4,15 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/stefanoveloccia"><img src="https://img.shields.io/badge/LinkedIn-stefanoveloccia-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.discogs.com/user/stopalpanico"><img src="https://img.shields.io/badge/Discogs-stopalpanico-333333?logo=discogs&logoColor=white" alt="Discogs"></a>
+  <a href="https://github.com/codeskine"><img src="https://img.shields.io/badge/GitHub-codeskine-181717?logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://gravatar.com/codeskine"><img src="https://img.shields.io/badge/Gravatar-codeskine-1E8CBE?logo=gravatar&logoColor=white" alt="Gravatar"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white" alt="Apache Kafka">
 </p>
 
 ---
