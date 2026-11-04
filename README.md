@@ -18,20 +18,19 @@
 
 ## About me
 
-I've been writing code for a long time and I've been a nerd for even longer. I live in Rome and work as a senior developer and architect, mostly with Go and Java on Kubernetes.
+Long-time coder, lifelong nerd. Senior developer and architect in Rome, mostly Go and Java on Kubernetes.
 
-I'm [Kafka certified](https://certificates.confluent.io/c2832628-024a-4146-bb47-8e43d2ac2ee4#acc.xtuN2y1V), which means I can usually explain why a message showed up twice. I'm also a certified Scrum Developer, and my main takeaway is that a stand-up should last as long as its name suggests.
+[Kafka certified](https://certificates.confluent.io/c2832628-024a-4146-bb47-8e43d2ac2ee4#acc.xtuN2y1V): I can usually explain why a message showed up twice. Certified Scrum Developer: a stand-up should last as long as its name suggests.
 
-## What I'm up to
+## Now
 
-Lately I spend my time on agentic and context engineering: I set up the process, the AI agents write the code, and I review it the way I always have, with a healthy amount of suspicion. Some of it is even good.
+Agentic and context engineering: I design the process, AI agents write the code, I review it with healthy suspicion.
 
 ## Off the clock
 
-I collect records and mess around with hardware synths. The record shelf grows faster than my backlog, and I'm at peace with that. If you're curious what's on it, [here's my Discogs profile](https://www.discogs.com/user/stopalpanico).
+Record collector and hardware synth tinkerer. The shelf grows faster than my backlog — see [Discogs](https://www.discogs.com/user/stopalpanico).
 
 ## Things I believe
 
-- If it works on the first try, I should check again.
+- If it works on the first try, check again.
 - Never deploy on a Friday.
-- Nobody has ever regretted writing a README, and I'm not sure this counts as one.
