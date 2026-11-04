@@ -20,7 +20,7 @@
 
 I've been writing code for a long time and I've been a nerd for even longer. I live in Rome and work as a senior developer and architect, mostly with Go and Java on Kubernetes.
 
-I'm Kafka certified, which means I can usually explain why a message showed up twice. I'm also a certified Scrum Developer, and my main takeaway is that a stand-up should last as long as its name suggests.
+I'm [Kafka certified](https://certificates.confluent.io/c2832628-024a-4146-bb47-8e43d2ac2ee4#acc.xtuN2y1V), which means I can usually explain why a message showed up twice. I'm also a certified Scrum Developer, and my main takeaway is that a stand-up should last as long as its name suggests.
 
 ## What I'm up to
 
