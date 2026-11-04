@@ -1,0 +1,31 @@
+<h1 align="center">Stefano Veloccia</h1>
+<p align="center"><em>aka <code>codeskine</code> · Rome, Italy</em></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/stefanoveloccia"><img src="https://img.shields.io/badge/LinkedIn-stefanoveloccia-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.discogs.com/user/stopalpanico"><img src="https://img.shields.io/badge/Discogs-stopalpanico-333333?logo=discogs&logoColor=white" alt="Discogs"></a>
+  <a href="https://gravatar.com/codeskine"><img src="https://img.shields.io/badge/Gravatar-codeskine-1E8CBE?logo=gravatar&logoColor=white" alt="Gravatar"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white" alt="Apache Kafka">
+</p>
+
+---
+
+I've been writing code for a long time and I've been a nerd for even longer. I live in Rome and work as a senior developer and architect, mostly with Go and Java on Kubernetes.
+
+I'm [Kafka certified](https://certificates.confluent.io/c2832628-024a-4146-bb47-8e43d2ac2ee4#acc.xtuN2y1V), which means I can usually explain why a message showed up twice. I'm also a certified Scrum Developer, and my main takeaway is that a stand-up should last as long as its name suggests.
+
+Lately I spend my time on agentic and context engineering: I set up the process, the AI agents write the code, and I review it the way I always have, with a healthy amount of suspicion. Some of it is even good.
+
+I collect records and mess around with hardware synths. The record shelf grows faster than my backlog, and I'm at peace with that. If you're curious what's on it, [here's my Discogs profile](https://www.discogs.com/user/stopalpanico).
+
+A few things I believe:
+
+- If it works on the first try, I should check again.
+- Never deploy on a Friday.
+- Nobody has ever regretted writing a README, and I'm not sure this counts as one.
